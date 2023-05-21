@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="release_date">Release Date: %1$s</string>
+    <string name="duration">Duration: %1$d mins</string>
+    <string name="genres">Genres: %1$s</string>
+    <string name="production_companies">Production Companies: %1$s</string>
+</resources>
